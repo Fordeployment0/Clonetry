@@ -100,7 +100,7 @@ for xd in range(10000):
     h='Mobile Safari/537.36'
     uaku2 = (f'{a} {b}; {c}) {d}{e}.{f}.{g} {h}')
     ugen.append(uaku2)
-)
+
 for ua in range(5000):
       a='Mozilla/5.0 (Linux; Android'
       b=random.choice(['5.1.1' , '6.0.1' , '7.1.1' , '12' , '13' , '14' , '15'])
